@@ -17,7 +17,7 @@ public :
 int main(){
     Mahasiswa mhs;
     mhs.nim = 2025;
-    mhs.nama = "Gusty";
+    mhs.nama = "Gusti";
     mhs.nilai = 95;
 
     mhs.printData();
