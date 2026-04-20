@@ -18,7 +18,7 @@ int main(){
     Mahasiswa mhs;
     mhs.nim = 2025;
     mhs.nama = "Gusti";
-    mhs.nilai = 10;
+    mhs.nilai = 100;
 
     mhs.printData();
 }
